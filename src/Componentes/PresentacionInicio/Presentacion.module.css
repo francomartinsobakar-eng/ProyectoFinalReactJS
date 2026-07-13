@@ -1,0 +1,35 @@
+.presentacion{
+    background-color: #39393B;
+    font-family: Tahoma, sans-serif;
+    border: 2px solid darkorange;
+}
+.presentacion h1{
+    font-size: 50px;
+    text-align: center;
+    margin: 0px;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: black;
+    color: orange;
+}
+
+.presentacion p{
+    font-size: 30px ;
+    text-align: center;
+    text-decoration: double;
+    color: orange;
+}
+
+.imagenes{
+    display: flex;
+    justify-items: auto;
+    justify-content: space-around;
+    border: 2px solid darkorange;
+    background-color: white;
+
+}
+.imagenes img{
+    width: 200px;
+    height: 200px;
+    margin: 0px;
+}

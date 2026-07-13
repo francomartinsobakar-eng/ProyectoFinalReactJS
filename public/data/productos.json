@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pico Forjado Punta Y Pala - 75 Mm Con Cabo - Biassoni",
+        "precio": 15000,
+        "descripcion": "Pico forjado con punta y pala, ideal para trabajos de excavacion y construccion. Cuenta con un cabo resistente para mayor durabilidad.",
+        "foto": "https://i.ibb.co/27ynhYws/pico.png"
+    },
+    {
+        "id": 2,
+        "nombre": "Maza Albañil Boleo 5 Kg Cabo Madera 90 Cm Cabeza Fundición El Roble",
+        "precio": 12000,
+        "descripcion":"Maza de 5 kg con cabeza de fundición y cabo de madera reforzado, diseñada para tareas de demolición y construcción que requieren gran impacto.",
+        "foto": "https://i.ibb.co/yntsT7nG/masa-copia.png" 
+    },
+    {
+        "id": 3,
+        "nombre": "Balde Albañil Reforzado Plastico Manija Metalica Inyectada",
+        "precio": 4500,
+        "descripcion":"Balde plástico reforzado con manija metálica resistente, ideal para transportar mezcla, agua y materiales en obras y trabajos de albañilería.",
+        "foto": "https://i.ibb.co/KpGLYZ5d/balde.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Cuchara Albañil Soldada Punta Redonda 8 Pulgadas Black Jack",
+        "precio": 3000,
+        "descripcion": "Cuchara de albañil soldada con punta redonda de 8 pulgadas, ideal para mezclar y transportar materiales en obras y trabajos de construcción.",
+        "foto": "https://i.ibb.co/27QzmNXB/cuchara.png"
+    },
+    {
+        "id": 5,
+        "nombre": "Guantes Moteados Albañil",
+        "precio": 2000,
+        "descripcion":"Guantes moteados antideslizantes que brindan mayor agarre, protección y comodidad durante tareas de construcción y manipulación de materiales.",
+        "foto": "https://i.ibb.co/S4FgwVJN/guantes.png"
+    },
+    {
+        "id": 6,
+        "nombre": "Hormigonera Trompito Ropal 130 Litros 1HP Motor 1450RPM Chasis Doble Soldadura",
+        "precio": 85000,
+        "descripcion":"Hormigonera de 130 litros con motor de 1HP y chasis reforzado de doble soldadura, ideal para preparar mezclas de forma eficiente y segura.",
+        "foto": "https://i.ibb.co/wN54b9hk/mezcladora.png"
+    },
+    {
+        "id": 7,
+        "nombre": "Carretilla Tramontina Extraforte 77714/235 Gris",
+        "precio": 25000,
+        "descripcion":"Carretilla extrafuerte de gran resistencia, diseñada para transportar materiales pesados con estabilidad y durabilidad en obras y trabajos intensivos.",
+        "foto": "https://i.ibb.co/nqjdKxNq/carretilla.png"   
+    },
+    {
+        "id": 8,
+        "nombre": "Llana Dentada Pro Black Jack 400 X 120 Mm Ferreteria Express",
+        "precio": 3500,
+        "descripcion":"Llana dentada profesional de acero, ideal para distribuir adhesivos y pastinas de manera uniforme en colocación de cerámicos y revestimientos.",
+        "foto":"https://i.ibb.co/YBKCFHXv/llanadentada.png"
+    }
+]

@@ -1,0 +1,20 @@
+.footer ul{
+    display: flex;
+    justify-content: left;
+    list-style: none;
+    gap: 40px;
+    margin: 10px 0;
+    text-align: justify;
+    background-color:white;
+}
+
+
+
+.footer{
+    background-color: orange;
+    border: 2px solid black;
+}
+
+.footer h2{
+    text-decoration: underline;
+}

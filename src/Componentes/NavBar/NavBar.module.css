@@ -1,0 +1,37 @@
+.navBar ul{
+    border: 2px solid orange;
+    background-color: black;
+    color: orange;
+    list-style:none;
+    list-style-type: none;
+    text-justify: auto;
+    align-content: center;
+    text-align: center;
+    margin: 0px;
+}
+
+.navBar li{
+    font-family:'Tektur', sans-serif;
+    background-color: black;
+    align-items: center;
+    font-size: 40px;
+    display: inline-block;
+    margin-right: 70px;
+    text-decoration: none;
+    list-style: none;
+}
+
+.navBar li a{
+    color: orange;
+    text-decoration:solid;
+    font-family: Tahoma, sans-serif;
+}
+.navBar li a:hover{
+    color:white;
+}
+
+.navbar li span{
+    color: orange;
+    font-size: 40px;
+    font-family:'Tektur', sans-serif;
+}
