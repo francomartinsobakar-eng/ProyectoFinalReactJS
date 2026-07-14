@@ -1,0 +1,30 @@
+[
+    {
+        "id": 15896,
+        "nombre": "Juan Perez",
+        "email":"JuanPerez@gmail.com",
+        "puesto":"Gerente de ventas",
+        "foto": "/images/JuanPerez.jpg"
+    },
+    {
+        "id": 45895,
+        "nombre": "Silvia Ortega",
+        "email":"SilviaOrtega@gmail.com",
+        "puesto":"Asistente administrativa",
+        "foto": "/images/SilviaOrtega.jpg"
+    },
+    {
+        "id": 22256,
+        "nombre":"Matias Rivera",
+        "email":"MatiasRivera@gmail.com",
+        "puesto":"Analista de marketing",
+        "foto":"/images/MatiasRivera.jpg"
+    },
+    {
+        "id": 88813,
+        "nombre": "Sabrina Neuman",
+        "email":"SabrinaNeuman@gmail.com",
+        "puesto":"Analista funcional",
+        "foto": "/images/SabrinaNeuman.jpg"
+    }
+]
