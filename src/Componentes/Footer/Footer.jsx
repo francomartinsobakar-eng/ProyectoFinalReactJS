@@ -7,7 +7,7 @@ function Footer(){
     const [contactos, setContactos] = useState([]);
 
     useEffect(() => {
-        fetch('/ProyectoFinalReactJS/data/personas.json')
+        fetch('/data/personas.json')
             .then(respuesta => {
                 console.log('Respuesta cruda del servidor:', respuesta);
                 return respuesta.json();
