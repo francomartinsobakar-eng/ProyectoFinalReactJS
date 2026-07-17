@@ -7,6 +7,7 @@ import Carrito from './Componentes/Carrito/Carrito';
 import Presentacion from './Componentes/PresentacionInicio/Presentacion';
 import FormularioContainer from './Componentes/Formulario/FormularioContainer';
 import Gestion from './Componentes/Gestion/Gestion';
+import GestionCupones from './Componentes/GestionCupones/GestionCupones';
 import Login from './Componentes/Login/Login';
 import Registro from './Componentes/Registro/Registro';
 import ProtectedRoute from './Componentes/ProtectedRoute/ProtectedRoue';
@@ -24,6 +25,9 @@ function App() {
         <Route path="/agregar-producto" element={<FormularioContainer />} />
         <Route path="/Gestion" element={<ProtectedRoute rolesPermitidos={['admin']}>
           <Gestion />
+        </ProtectedRoute>} />
+        <Route path="/GestionDeCupones" element={<ProtectedRoute rolesPermitidos={['admin']}>
+          <GestionCupones />
         </ProtectedRoute>} />
         <Route path="/registro" element={<Registro />} />
         <Route path="/carrito" element={<Carrito />} />

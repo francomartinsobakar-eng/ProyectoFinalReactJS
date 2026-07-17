@@ -84,8 +84,12 @@ function Header() {
                         {user.rol === 'admin' && (
                             <li>
                                 <BotonNav>
-                                    <Link to="/Gestion">Gestion</Link>
+                                    <Link to="/Gestion">Gestion de productos</Link>
                                 </BotonNav>
+                                <BotonNav>
+                                    <Link to="/GestionDeCupones">Gestion de cupones</Link> 
+                                </BotonNav>
+
                             </li>
                         )}
                         <li><Saludo>¡Hola, {user.email}!</Saludo></li>
