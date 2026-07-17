@@ -76,7 +76,7 @@ function Header() {
 
     return (
         <HeaderContainer>
-            <Titulo>Mil</Titulo>
+            <Titulo>MilHerramientas</Titulo>
             <Subtitulo>Las mejores ofertas</Subtitulo>
             <NavList>
                 {user ? (

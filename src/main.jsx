@@ -7,7 +7,7 @@ import { CartProvider } from './context/CartContext.jsx';
 import { AuthProvider } from './context/AuthContext.jsx';
 
 createRoot(document.getElementById('root')).render(
-  <BrowserRouter>
+  <BrowserRouter basename="/ProyectoFinalReactJS/">
     <AuthProvider>
       <CartProvider>
         <App />
